@@ -1,0 +1,19 @@
+# VS 缓存文件
+.vs/
+*.vsidx
+*.suo
+*.user
+*.userosscache
+*.sln.docstates
+
+# 编译输出文件
+bin/
+obj/
+*.exe
+*.dll
+*.pdb
+
+# .NET 临时文件
+*.log
+.idea/
+.vscode/
